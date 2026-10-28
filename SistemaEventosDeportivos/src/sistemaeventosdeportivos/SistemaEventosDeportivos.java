@@ -1,7 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+/*****************************************
+* universidad fidelitas                  *
+* curso: estructura de datos             *
+* autor: Yuliana Alvarado Herrera        *
+* Nombre: sistemaeventosdeportivos.java  *          
+* Fecha:                                 *
+******************************************/
+
 package sistemaeventosdeportivos;
 
 /**
