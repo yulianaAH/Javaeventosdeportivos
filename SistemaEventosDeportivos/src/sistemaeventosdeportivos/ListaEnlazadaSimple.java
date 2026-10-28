@@ -5,6 +5,7 @@
 * Nombre: sistemaeventosdeportivos.java  *          
 * Fecha:                                 *
 ******************************************/
+// define el paquete al cual pertenece la clase
 package sistemaeventosdeportivos;
 
 public class ListaEnlazadaSimple {
@@ -54,7 +55,6 @@ public class ListaEnlazadaSimple {
                 actual = actual.getSiguiente();
                 indice++;
             } // final de while
-            System.out.println("=======================================================");
         } // final de if else
     } // final de mostrarEventos
     
